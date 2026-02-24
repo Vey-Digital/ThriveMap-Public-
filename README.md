@@ -1,5 +1,9 @@
-
 <div align="center">
+
+## @VeyDigital  
+### Building Intelligence Layers
+
+<br/>
 
 # ThriveMap
 
