@@ -2,10 +2,10 @@
 
 # ThriveMap
 
-**Design your future. Practice it daily.**
+**Design your future. Self training platform.**
 
-A structured future-self visualization system  
-for clarity, consistency, and momentum.
+The core system is practice-driven and human-led.  
+AI functions as an insight layer, analyzing reflection data, identifying patterns, and enhancing decision clarity without replacing the foundational exercise.
 
 <br/>
 
