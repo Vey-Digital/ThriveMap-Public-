@@ -21,8 +21,6 @@ without replacing the foundational exercise.
 
 <br/>
 
-</div>
-
 <img
   src="https://github.com/user-attachments/assets/ad9210ab-ce3c-4d5f-a031-e74aaa2778e3"
   alt="ThriveMap Home"
@@ -55,6 +53,7 @@ When someone feels:
 - Disconnected  
 - Uncertain about relationships  
 - Afraid of change  
+
 ---
 
 ## Core System
@@ -106,6 +105,7 @@ A clean grid view that:
 - Export only when user chooses  
 
 ---
+
 ## Status
 
 This repo is a **public prototype** used to test UX flows, copy, and visual layout.
