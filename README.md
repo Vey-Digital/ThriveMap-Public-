@@ -99,16 +99,6 @@ A clean grid view that:
 - Export only when user chooses  
 
 ---
-
-## Core experience
-
-- **Personal / Professional / Social** domain sessions  
-- **1-minute imagine + 5-minute writing** per domain  
-- **7-day visualization rotation**  
-- **Weekly visualization log**
-
----
-
 ## Status
 
 This repo is a **public prototype** used to test UX flows, copy, and visual layout.
