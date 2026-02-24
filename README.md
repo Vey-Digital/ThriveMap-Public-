@@ -13,10 +13,8 @@
 
 <p>
 Practice-driven. Human-led.<br/>
-AI functions as an intelligence layer,<br/>
-extracting patterns from reflection data,<br/>
-and strengthening decision clarity<br/>
-without replacing the foundational exercise.
+AI functions as an insight layer that extracts patterns from reflection data<br/>
+and strengthens decision clarity without replacing the core exercise.
 </p>
 
 <br/>
@@ -30,12 +28,32 @@ without replacing the foundational exercise.
 <br/>
 <br/>
 
-<!-- Badge Row -->
-
 <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Local--Only_Data-0f766e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/No_Login_Required-1f2937?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Local--Only%20Data-6d28d9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/No%20Login%20Required-1f2937?style=for-the-badge" />
+
+<br/>
+<br/>
+
+</div>
+
+---
+
+<div align="center">
+
+## The ThriveMap Loop
+
+<p>
+A repeatable system designed for clarity, consistency, and momentum.
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/1%20Define-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/2%20Rehearse-6d28d9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/3%20Track-1f2937?style=for-the-badge" />
+<img src="https://img.shields.io/badge/4%20Reflect-374151?style=for-the-badge" />
 
 <br/>
 <br/>
@@ -46,63 +64,56 @@ without replacing the foundational exercise.
 
 ## Why ThriveMap Exists
 
-When someone feels:
-
-- Burned out  
-- Laid off  
-- Disconnected  
-- Uncertain about relationships  
-- Afraid of change  
+When people feel burned out, laid off, disconnected, uncertain about relationships, or afraid of change, the mind narrows to survival.  
+ThriveMap widens the lens by turning intention into a daily, trackable practice loop.
 
 ---
 
-## Core System
+## What You Get
 
-ThriveMap combines:
+### 🧠 Domain Sessions
+**1-minute imagine + 5-minute writing** across:
+- Personal  
+- Professional  
+- Social  
 
-- Guided psychological exercises  
-- Behavioral tracking  
-- Visualization repetition  
-- Local-first privacy  
-
----
-
-## ✨ Feature Highlights
-
-### 🧠 Guided Domain Sessions
-Structured flows for:
-- Personal growth  
-- Professional direction  
-- Social relationships  
-
-Each session includes:
-- 1-minute imagination timer  
-- 5-minute writing session  
-- Progress continuity  
+**Outcome:** clearer goals, stronger self-definition, better decisions.
 
 ---
 
-### 🔁 7-Day Visualization Rotation
-A rotating daily practice that:
-- Reinforces mental rehearsal  
-- Builds consistency  
-- Tracks completion across domains  
+### 🔁 7-Day Rotation
+A guided daily practice that rotates domains automatically.
+
+**Outcome:** consistency without overwhelm.
 
 ---
 
-### 📊 Weekly Visualization Log
-A clean grid view that:
-- Shows domain consistency  
-- Encourages streaks  
-- Supports reflection  
+### 📊 Weekly Log Grid
+A simple weekly grid to mark completion and notes.
+
+**Outcome:** momentum you can see.
 
 ---
 
 ### 🔐 Private by Default
 - No login required  
 - No backend dependency  
-- All writing stored locally  
-- Export only when user chooses  
+- Data stays local  
+- Export only when you choose  
+
+**Outcome:** trust and retention.
+
+---
+
+<details>
+<summary><strong> Why this retains</strong></summary>
+
+ThriveMap is designed around a repeatable behavioral loop:
+Define → Rehearse → Track → Reflect.
+
+This loop supports daily engagement, weekly completion, and long-term identity reinforcement.
+AI increases perceived value over time by extracting patterns from user-generated reflection data without replacing the practice.
+</details>
 
 ---
 
