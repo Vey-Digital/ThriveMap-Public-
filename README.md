@@ -41,13 +41,6 @@ When someone feels:
 - Disconnected  
 - Uncertain about relationships  
 - Afraid of change  
-
-The mind narrows to survival.
-
-ThriveMap expands it again.
-
-It helps people move from reaction → intention through structured future rehearsal.
-
 ---
 
 ## Core System
@@ -58,8 +51,6 @@ ThriveMap combines:
 - Behavioral tracking  
 - Visualization repetition  
 - Local-first privacy  
-
-All designed to reinforce clarity and self-trust.
 
 ---
 
@@ -99,38 +90,6 @@ A clean grid view that:
 - No backend dependency  
 - All writing stored locally  
 - Export only when user chooses  
-
----
-
-
-## What is ThriveMap?
-
-ThriveMap is part of a new category of AI-assisted well-being platforms that blend:
-
-- **Structured psychological exercises**
-- **Behavior tracking**
-- **Insightful reflection tools**
-
-…to support sustained personal and professional growth.
-
----
-
-## Why it helps during hard seasons
-
-When someone feels:
-
-- Burned out  
-- Laid off  
-- Disconnected  
-- Uncertain about relationships  
-- Afraid of moving  
-
-ThriveMap provides a simple loop that helps restore direction:
-
-1. **Imagine** a best-possible future (guided)
-2. **Write** with clarity and detail
-3. **Visualize** daily for consistency
-4. **Track** progress to reinforce momentum
 
 ---
 
