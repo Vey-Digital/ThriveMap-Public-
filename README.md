@@ -13,12 +13,15 @@
 
 <p>
 Practice-driven. Human-led.<br/>
-AI enhances insight extraction from reflection data.<br/>
-It identifies patterns and strengthens decision clarity<br/>
+AI functions as an intelligence layer,<br/>
+extracting patterns from reflection data,<br/>
+and strengthening decision clarity<br/>
 without replacing the foundational exercise.
 </p>
 
 <br/>
+
+</div>
 
 <img
   src="https://github.com/user-attachments/assets/ad9210ab-ce3c-4d5f-a031-e74aaa2778e3"
