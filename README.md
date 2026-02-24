@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # ThriveMap
@@ -22,8 +23,6 @@ without replacing the foundational exercise.
 />
 
 <br/>
-
-</div>
 <br/>
 
 <!-- Badge Row -->
