@@ -2,12 +2,16 @@
 
 # ThriveMap
 
-**Design your future. Self training platform.**
+**Design your future. A structured self-training platform.**
 
-The core system is practice-driven and human-led.  
-AI functions as an insight layer, analyzing reflection data, 
-identifying patterns, and enhancing decision clarity 
+<br/>
+
+<p>
+Practice-driven. Human-led.<br/>
+AI enhances insight extraction from reflection data.<br/>
+It identifies patterns and strengthens decision clarity<br/>
 without replacing the foundational exercise.
+</p>
 
 <br/>
 
@@ -18,6 +22,8 @@ without replacing the foundational exercise.
 />
 
 <br/>
+
+</div>
 <br/>
 
 <!-- Badge Row -->
