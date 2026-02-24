@@ -1,3 +1,147 @@
+<div align="center">
+
+# ThriveMap
+
+**Design your future. Practice it daily.**
+
+A structured future-self visualization system  
+for clarity, consistency, and momentum.
+
+<br/>
+
+<img
+  src="https://github.com/user-attachments/assets/ad9210ab-ce3c-4d5f-a031-e74aaa2778e3"
+  alt="ThriveMap Home"
+  width="380"
+/>
+
+<br/>
+<br/>
+
+<!-- Badge Row -->
+
+<img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Local--Only_Data-0f766e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/No_Login_Required-1f2937?style=for-the-badge" />
+
+<br/>
+<br/>
+
+</div>
+
+---
+
+## Why ThriveMap Exists
+
+When someone feels:
+
+- Burned out  
+- Laid off  
+- Disconnected  
+- Uncertain about relationships  
+- Afraid of change  
+
+The mind narrows to survival.
+
+ThriveMap expands it again.
+
+It helps people move from reaction → intention through structured future rehearsal.
+
+---
+
+## Core System
+
+ThriveMap combines:
+
+- Guided psychological exercises  
+- Behavioral tracking  
+- Visualization repetition  
+- Local-first privacy  
+
+All designed to reinforce clarity and self-trust.
+
+---
+
+## ✨ Feature Highlights
+
+### 🧠 Guided Domain Sessions
+Structured flows for:
+- Personal growth  
+- Professional direction  
+- Social relationships  
+
+Each session includes:
+- 1-minute imagination timer  
+- 5-minute writing session  
+- Progress continuity  
+
+---
+
+### 🔁 7-Day Visualization Rotation
+A rotating daily practice that:
+- Reinforces mental rehearsal  
+- Builds consistency  
+- Tracks completion across domains  
+
+---
+
+### 📊 Weekly Visualization Log
+A clean grid view that:
+- Shows domain consistency  
+- Encourages streaks  
+- Supports reflection  
+
+---
+
+### 🔐 Private by Default
+- No login required  
+- No backend dependency  
+- All writing stored locally  
+- Export only when user chooses  
+
+---
+
+## 📱 Interface Preview
+
+<div align="center">
+
+<img
+  src="https://github.com/user-attachments/assets/ad9210ab-ce3c-4d5f-a031-e74aaa2778e3"
+  alt="ThriveMap Screenshot 1"
+  width="280"
+/>
+
+<img
+  src="https://github.com/user-attachments/assets/ad9210ab-ce3c-4d5f-a031-e74aaa2778e3"
+  alt="ThriveMap Screenshot 2"
+  width="280"
+/>
+
+</div>
+
+---
+
+## Built With
+
+- Expo (React Native)
+- TypeScript
+- Expo Router
+- SQLite (local-only storage)
+- NativeWind
+- Reanimated + Moti
+
+---
+
+## Philosophy
+
+Clarity creates direction.  
+Repetition builds identity.  
+Identity drives action.
+
+ThriveMap is designed to make that loop simple.
+
+
 
 <div align="center">
 
