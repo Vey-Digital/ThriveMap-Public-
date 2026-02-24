@@ -4,7 +4,7 @@
 # ThriveMap Public
 
 **A guided future-self visualization + writing practice**  
-Built to help people regain clarity, consistency, and momentum — especially during hard seasons.
+Built to help people regain clarity, consistency, and momentum.
 
 <br/>
 
