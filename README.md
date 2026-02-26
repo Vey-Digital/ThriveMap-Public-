@@ -120,3 +120,12 @@ AI increases perceived value over time by extracting patterns from user-generate
 ## Status
 
 This repo is a **public prototype** used to test UX flows, copy, and visual layout.
+
+
+## Built for Every Device. 
+ThriveMap runs on React Native and Expo, which means it works seamlessly across iOS, Android, and web. Whether someone is using a compact phone or a larger display, the experience stays consistent and intentional.
+The interface adapts intelligently through:
+• Smart safe-area handling for edge-to-edge screens
+• Responsive spacing and adaptive typography for smaller devices
+• Flexible layouts without rigid pixel constraints
+• Careful testing across common breakpoints, from small Android devices to iPhone SE and larger iPhone or Pixel screens
