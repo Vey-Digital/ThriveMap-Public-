@@ -129,18 +129,21 @@ The interface adapts intelligently through:
 • Responsive spacing and adaptive typography for smaller devices
 • Flexible layouts without rigid pixel constraints
 • Careful testing across common breakpoints, from small Android devices to iPhone SE and larger iPhone or Pixel screens
+
+<div align="center">
+
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/178102eb-18f5-455d-9ea5-8e9cc18a91ed" width="300"/>
+      <img src="https://github.com/user-attachments/assets/178102eb-18f5-455d-9ea5-8e9cc18a91ed" width="300" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/fc1b3736-a293-4ee1-b376-eee8840c103c" width="300"/>
+      <img src="https://github.com/user-attachments/assets/fc1b3736-a293-4ee1-b376-eee8840c103c" width="300" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/e5d2aae8-a777-478c-8c38-2bf66ab87b22" width="300"/>
+      <img src="https://github.com/user-attachments/assets/e5d2aae8-a777-478c-8c38-2bf66ab87b22" width="300" />
     </td>
   </tr>
 </table>
 
-
+</div>
