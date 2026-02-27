@@ -37,7 +37,11 @@ and strengthens decision clarity without replacing the core exercise.
 <br/>
 
 </div>
-
+<div align="center">
+  <a href="https://your-live-demo-url.com" target="_blank">
+    <img src="assets/thrivemap.app_mockup.gif" width="380" alt="ThriveMap Live Demo" />
+  </a>
+</div>
 ---
 
 <div align="center">
@@ -255,3 +259,4 @@ export const colors = {
   accentMint: "#88EAB2",
   accentLavender: "#8B759C",
 };
+
