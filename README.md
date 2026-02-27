@@ -112,7 +112,13 @@ AI increases perceived value over time by extracting patterns from user-generate
 ## Status
 
 This repo is a **public prototype** used to test UX flows, copy, and visual layout.
+<div align="center">
 
+<a href="https://your-live-demo-url.com">
+  <img src="./assets/thrivemap.app_mockup.gif" width="380" alt="ThriveMap Demo" />
+</a>
+
+</div>
 ---
 
 ## Built for Every Device
@@ -131,9 +137,25 @@ The interface adapts through:
 
 ## Theme System — “Night Ritual” Palette
 
-The visual system uses a premium deep-indigo foundation inspired by iterative exploration inside PixelBot by T.D.
+---
 
-The goal: calm, modern, immersive — more “night ritual” than “productivity dashboard.”
+## Theme System — Night Ritual
+
+ThriveMap’s visual system is built on a deep indigo foundation inspired by my iterative exploration inside  
+[PixelBot by T.D.](https://chatgpt.com/g/g-zCVkaCE5X-pixelbot-by-t-d).
+
+I didn’t want this to feel like another productivity dashboard.
+
+I wanted something calmer. More immersive. Something that feels intentional when you open it at night  reflective, focused, and slightly cinematic.
+
+The goal isn’t visual noise.  
+It’s quiet clarity.
+
+Dark gradients create depth.  
+Mint highlights signal progress.  
+Purple undertones add warmth without becoming loud.
+
+The result feels less like “task management” and more like a nightly ritual for alignment.
 
 ---
 
