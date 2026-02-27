@@ -10,7 +10,15 @@
 **Design your future. A structured self-training platform.**
 
 <br/>
-https://raw.githubusercontent.com/Vey-Digital/ThriveMap-Public-/master/assets/thrivemap.app_mockup.gif
+<div align="center">
+  <a href="https://your-live-demo-url.com">
+    <img
+      src="https://raw.githubusercontent.com/Vey-Digital/ThriveMap-Public-/last_night_ui/assets/thrivemap.app_mockup.gif"
+      width="380"
+      alt="ThriveMap Live Demo"
+    />
+  </a>
+</div>
 
 ## Practice-driven. Human-led.  
 AI functions as an insight layer that extracts patterns from reflection data  
