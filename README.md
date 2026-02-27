@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://your-live-demo-url.com">
     <img
-      src="https://raw.githubusercontent.com/Vey-Digital/ThriveMap-Public-/last_night_ui/assets/thrivemap.app_mockup.gif"
+      src="https://raw.githubusercontent.com/Vey-Digital/ThriveMap/last_night_ui/assets/thrivemap.app_mockup.gif"
       width="380"
       alt="ThriveMap Live Demo"
     />
