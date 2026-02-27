@@ -45,10 +45,9 @@ A repeatable system designed for clarity, consistency, and momentum.
 ---
 <div align="center">
   <a href="https://your-live-demo-url.com">
-    <img src="https://github.com/Vey-Digital/ThriveMap/raw/last_night_ui/assets/thrivemap.app_mockup.gif" width="380" alt="ThriveMap Live Demo" />
+    <img src="./assets/thrivemap.app_mockup.gif?v=20260227" width="380" alt="ThriveMap Live Demo" />
   </a>
 </div>
-
 ## Why ThriveMap Exists
 
 When people feel burned out, laid off, disconnected, uncertain about relationships, or afraid of change, the mind narrows to survival.  
