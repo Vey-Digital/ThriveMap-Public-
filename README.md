@@ -10,15 +10,6 @@
 **Design your future. A structured self-training platform.**
 
 <br/>
-
-<a href="https://your-live-demo-url.com">
-  <img
-    src="https://raw.githubusercontent.com/Vey-Digital/ThriveMap/last_night_ui/assets/thrivemap.app_mockup.gif"
-    width="380"
-    alt="ThriveMap Live Demo"
-  />
-</a>
-
 <br/>
 
 ## Practice-driven. Human-led.  
@@ -52,7 +43,11 @@ A repeatable system designed for clarity, consistency, and momentum.
 </div>
 
 ---
-
+<div align="center">
+  <a href="https://your-live-demo-url.com">
+    <img src="./assets/thrivemap.app_mockup.gif" width="380" alt="ThriveMap Live Demo" />
+  </a>
+</div>
 ## Why ThriveMap Exists
 
 When people feel burned out, laid off, disconnected, uncertain about relationships, or afraid of change, the mind narrows to survival.  
