@@ -139,7 +139,7 @@ ThriveMap’s visual system is built on a deep indigo foundation inspired by my 
 
 I didn’t want this to feel like another productivity dashboard.
 
-I wanted something calmer. More immersive. Something that feels intentional when you open it at night — reflective, focused, and slightly cinematic.
+I wanted something calmer. More immersive. Something that feels intentional when you open it at night reflective, focused, and slightly cinematic.
 
 The goal isn’t visual noise.  
 It’s quiet clarity.
