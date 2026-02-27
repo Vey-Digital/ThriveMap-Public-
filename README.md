@@ -10,8 +10,9 @@
 **Design your future. A structured self-training platform.**
 
 <br/>
+https://raw.githubusercontent.com/Vey-Digital/ThriveMap-Public-/master/assets/thrivemap.app_mockup.gif
 
-Practice-driven. Human-led.  
+## Practice-driven. Human-led.  
 AI functions as an insight layer that extracts patterns from reflection data  
 and strengthens decision clarity without replacing the core exercise.
 
