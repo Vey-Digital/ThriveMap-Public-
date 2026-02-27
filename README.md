@@ -36,12 +36,6 @@ and strengthens decision clarity without replacing the core exercise.
 <br/>
 <br/>
 
-</div>
-<div align="center">
-  <a href="https://your-live-demo-url.com" target="_blank">
-    <img src="assets/thrivemap.app_mockup.gif" width="380" alt="ThriveMap Live Demo" />
-  </a>
-</div>
 ---
 
 <div align="center">
@@ -63,7 +57,11 @@ A repeatable system designed for clarity, consistency, and momentum.
 <br/>
 
 </div>
-
+<div align="center">
+  <a href="https://your-live-demo-url.com">
+    <img src="assets/thrivemap.app_mockup.gif" width="380" alt="ThriveMap Live Demo" />
+  </a>
+</div>
 ---
 
 ## Why ThriveMap Exists
@@ -136,19 +134,7 @@ The interface adapts intelligently through:
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/178102eb-18f5-455d-9ea5-8e9cc18a91ed" width="300" />
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/fc1b3736-a293-4ee1-b376-eee8840c103c" width="300" />
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/e5d2aae8-a777-478c-8c38-2bf66ab87b22" width="300" />
-    </td>
-  </tr>
-</table>
+
 
 </div>
 
