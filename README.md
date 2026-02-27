@@ -147,3 +147,111 @@ The interface adapts intelligently through:
 </table>
 
 </div>
+
+## Theme System — “Night Ritual” Palette
+
+The visual system uses a premium deep-indigo foundation inspired by exploration and iterative refinement inside **PixelBot by T.D.**
+
+Reference:
+https://chatgpt.com/g/g-zCVkaCE5X-pixelbot-by-t-d
+
+The goal is to create a calm, modern, and brandable interface that feels reflective, intentional, and high-end — more “night ritual” than “productivity dashboard.”
+
+---
+
+## Core Palette
+
+### Core Colors
+
+- Deep Ink — `#0F0D1A`
+- Indigo Base — `#2A245E`
+- Mid Indigo — `#3A4789`
+- Violet — `#5C5793`
+- Plum — `#52365D`
+- Soft Lavender Text — `#8B759C`
+- Light Neutral — `#EEEDF0`
+- Cool Gray — `#9A9BA3`
+
+### Accent
+
+- Mint Highlight (Progress / “Today”) — `#88EAB2`
+
+---
+
+## Why This Theme Works
+
+- Dark gradient + strong white typography creates **calm authority**
+- Mint accent signals **progress and clarity** without neon harshness
+- Restrained dark UI allows imagery and content cards to stand out
+- Purple undertones add warmth without losing depth
+
+The result feels intentional, immersive, and premium.
+
+---
+
+## Production Refinements
+
+### 1️⃣ Increase Secondary Text Contrast
+
+Use:
+- `#C9C7D6` for secondary text  
+- `#9A9BA3` strictly for tertiary/muted labels  
+
+This improves accessibility while preserving softness.
+
+---
+
+### 2️⃣ Unify Accent Logic
+
+Accent colors follow strict semantic rules:
+
+| Meaning              | Color       |
+|----------------------|-------------|
+| Active / Complete    | `#88EAB2`   |
+| Progress / Today     | `#88EAB2`   |
+| Informational / Tag  | `#8B759C`   |
+| Muted / Disabled     | `#9A9BA3`   |
+
+Mint is never decorative.  
+It always signals state or forward movement.
+
+---
+
+### 3️⃣ Reduce Visual Saturation Layers
+
+The UI includes:
+- Background gradient
+- Decorative circle overlays
+- Card glow
+- Elevation layers
+
+To maintain calm layering:
+
+- Reduce decorative circle opacity by ~15–25%
+- Keep card glow subtle
+- Preserve depth without increasing noise
+
+---
+
+##  Set
+
+```ts
+export const colors = {
+  // Background
+  bg: "#0F0D1A",
+  bgGradientA: "#2A245E",
+  bgGradientB: "#5C5793",
+
+  // Surfaces
+  surface: "rgba(255,255,255,0.06)",
+  border: "rgba(255,255,255,0.10)",
+
+  // Text
+  textPrimary: "#FFFFFF",
+  textSecondary: "#C9C7D6",
+  textMuted: "#9A9BA3",
+
+  // Accents
+  accentMint: "#88EAB2",
+  accentLavender: "#8B759C",
+};
