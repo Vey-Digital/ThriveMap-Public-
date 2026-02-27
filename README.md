@@ -45,7 +45,7 @@ A repeatable system designed for clarity, consistency, and momentum.
 ---
 <div align="center">
   <a href="https://your-live-demo-url.com">
-    <img src="https://github.com/Vey-Digital/ThriveMap/raw/last_night_ui/assets/thrivemap.app_mockup.gif" width="380" alt="ThriveMap Live Demo" />
+    <img src="https://github.com/Vey-Digital//Users/thrivemap/assets/thrivemap.app_mockup.gif" width="380" alt="ThriveMap Live Demo" />
   </a>
 </div>
 
