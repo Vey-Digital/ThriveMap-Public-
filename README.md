@@ -11,7 +11,8 @@ Developed by **VeyDigital**.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
 
 <br>
-<img width="250" height="800" alt="image" src="https://github.com/user-attachments/assets/ce499d6d-d7e7-4752-b481-a919a8b61462" />
+<img width="406" height="1000" alt="image" src="https://github.com/user-attachments/assets/71fcb94e-de3e-43b9-a1df-f2cbcf2cb6f9" />
+
 </br>
 
 ---
