@@ -9,8 +9,10 @@ Developed by **VeyDigital**.
 ![Expo](https://img.shields.io/badge/Expo-000000?style=flat&logo=expo)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-<img width="218" height="500" alt="image" src="https://github.com/user-attachments/assets/ce499d6d-d7e7-4752-b481-a919a8b61462" />
 
+<br>
+<img width="250" height="800" alt="image" src="https://github.com/user-attachments/assets/ce499d6d-d7e7-4752-b481-a919a8b61462" />
+</br>
 
 ---
 
