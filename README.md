@@ -104,11 +104,16 @@ The system runs across:
 
 ---
 
-## Public Demo
+**Demo Video Distribution**
 
-This repository supports the upcoming demo experience.  
-Demo Video (Indie Hackers / Expo / Reddit / X / Hacker News)
-60–90 seconds
+The demo video (60–90 seconds) will be shared across the following platforms:
+
+- GitHub (repository overview)
+- Expo (project showcase)
+- Indie Hackers
+- Reddit
+- X (Twitter)
+- Hacker News
 ---
 
 ## Author
