@@ -106,11 +106,9 @@ The system runs across:
 
 ## Public Demo
 
-A public web demo of ThriveMap will be available soon through **Expo Web**, allowing users to explore the system and experience the reflection workflow directly in the browser.
-
 This repository supports the upcoming demo experience.  
-The full application source code remains private.
-
+Demo Video (Indie Hackers / Expo / Reddit / X / Hacker News)
+60–90 seconds
 ---
 
 ## Author
