@@ -10,6 +10,8 @@ Developed by **VeyDigital**.
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
 
+<img width="628" height="1820" alt="image" src="https://github.com/user-attachments/assets/cac90f4a-01ea-45af-ac5b-62d5cb4a37cf" />
+
 ---
 
 ## What is ThriveMap?
