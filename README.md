@@ -1,8 +1,8 @@
-> A decision clarity system for navigating career transitions, personal growth, and life’s most important choices.
+> A structured system for decision clarity during career transitions, personal growth, and life’s most important choices.
 
 # ThriveMap™
 
-A structured reflection and cognitive rehearsal system designed to help individuals think clearly, navigate uncertainty, and align decisions with long-term direction.
+**ThriveMap** is a structured reflection and cognitive rehearsal system designed to help individuals think clearly, navigate uncertainty, and align decisions with long-term direction.
 
 Developed by **VeyDigital**.
 
@@ -11,75 +11,90 @@ Developed by **VeyDigital**.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
 
 <br>
-<img width="406" height="1000" alt="image" src="https://github.com/user-attachments/assets/71fcb94e-de3e-43b9-a1df-f2cbcf2cb6f9" />
 
-</br>
+<img width="406" height="1000" alt="ThriveMap Home Screen" src="https://github.com/user-attachments/assets/71fcb94e-de3e-43b9-a1df-f2cbcf2cb6f9" />
+
+<br>
 
 ---
 
-## What is ThriveMap?
+# Overview
 
-ThriveMap is a guided system for structured reflection and decision clarity.
+ThriveMap provides a structured approach to reflection and decision-making.
 
-Instead of unstructured journaling, ThriveMap uses repeatable cognitive exercises that help individuals pause, evaluate options, and align actions with long-term goals.
+Instead of unstructured journaling, the system guides users through repeatable cognitive exercises that help them pause, evaluate options, and align actions with long-term goals.
 
-It is designed for moments when decisions matter most:
+The platform is designed for moments when clarity matters most:
 
 • career transitions  
 • layoffs or organizational change  
-• personal growth and life direction  
 • leadership and professional development  
+• personal growth and life direction  
 
 ---
 
-## The ThriveMap Loop
+# The ThriveMap Loop
 
-ThriveMap operates through a repeatable reflection cycle:
+At the core of ThriveMap is a repeatable reflection cycle.
 
-1. **Visualize** — imagine a future scenario clearly  
-2. **Write** — capture insights through structured prompts  
-3. **Review** — identify patterns across time  
-4. **Align** — translate reflection into intentional action  
+1. **Visualize**  
+   Imagine future scenarios with clarity and intention.
 
-This loop helps individuals move from reaction to thoughtful decision-making.
+2. **Write**  
+   Capture insights through structured prompts.
 
----
+3. **Review**  
+   Identify patterns across time and reflection entries.
 
-## Life Domains
+4. **Align**  
+   Translate reflection into intentional decisions and actions.
 
-ThriveMap organizes reflection across three core domains.
-
-### Personal — Wellness
-
-Develop inner clarity and emotional stability during periods of uncertainty.
-
-Focus areas include identity, mindset, habits, and personal resilience.
+This loop helps individuals shift from reactive decision-making to thoughtful, deliberate direction.
 
 ---
 
-### Professional — Career
+# Reflection Domains
 
-Navigate career decisions with strategic reflection.
+ThriveMap organizes reflection across three primary domains.
 
-Useful for career transitions, leadership growth, layoffs, and long-term professional direction.
+## Personal — Wellness
 
----
+Focus on internal stability and self-development during periods of change.
 
-### Social — Connection
-
-Strengthen communication, relationships, and support networks while navigating change.
-
-This domain helps individuals maintain meaningful connections during personal and professional transitions.
+Key areas include identity, mindset, habits, and personal resilience.
 
 ---
 
-## Why Cognitive Rehearsal?
+## Professional — Career
 
-Important life decisions are often made during moments of uncertainty.
+Support strategic thinking around career direction and leadership growth.
 
-Cognitive rehearsal helps individuals prepare for these moments by mentally exploring possible outcomes before acting. Instead of reacting under pressure, the process creates space for thoughtful reflection and clearer judgment.
+Common use cases include:
 
-Through structured reflection, this approach strengthens:
+• navigating layoffs or restructuring  
+• evaluating career transitions  
+• leadership reflection  
+• long-term professional planning  
+
+---
+
+## Social — Connection
+
+Strengthen communication, relationships, and social support systems while navigating personal or professional transitions.
+
+Maintaining strong connections during uncertainty is a critical component of long-term wellbeing.
+
+---
+
+# Why Cognitive Rehearsal?
+
+Important decisions are often made under pressure or uncertainty.
+
+Cognitive rehearsal helps individuals prepare for these moments by mentally exploring potential futures before acting.
+
+Rather than reacting immediately, the process creates space for thoughtful reflection and clearer judgment.
+
+Structured reflection strengthens:
 
 • clarity of direction  
 • emotional resilience during change  
@@ -88,15 +103,17 @@ Through structured reflection, this approach strengthens:
 
 ---
 
-## Technology
+# Technology
 
-ThriveMap is built using modern cross-platform technologies:
+ThriveMap is built using modern cross-platform technologies.
+
+**Core stack**
 
 • React Native  
 • Expo  
 • TypeScript  
 
-The system runs across:
+The application runs across:
 
 • iOS  
 • Android  
@@ -104,19 +121,22 @@ The system runs across:
 
 ---
 
-**Demo Video Distribution**
+# Public Demo
 
-The demo video (60–90 seconds) will be shared across the following platforms:
+A short demo video (60–90 seconds) demonstrates the core workflow of ThriveMap.
 
-- GitHub (repository overview)
-- Expo (project showcase)
-- Indie Hackers
-- Reddit
-- X (Twitter)
-- Hacker News
+The demo will be distributed across the following platforms:
+
+• GitHub (repository overview)  
+• Expo (project showcase)  
+• Indie Hackers  
+• Reddit  
+• X (Twitter)  
+• Hacker News  
+
 ---
 
-## Author
+# Author
 
 **VeyDigital**
 
