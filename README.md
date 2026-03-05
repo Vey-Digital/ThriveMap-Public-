@@ -129,10 +129,8 @@ The demo will be distributed across the following platforms:
 
 • GitHub (repository overview)  
 • Expo (project showcase)  
-• Indie Hackers  
 • Reddit  
 • X (Twitter)  
-• Hacker News  
 
 ---
 
