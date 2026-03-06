@@ -31,13 +31,14 @@ The platform is designed for moments when clarity matters most:
 • leadership and professional development  
 • personal growth and life direction  
 
-## ThriveMap Reflection Progression Model
-Cycle 1–2   Stabilize thinking
-Cycle 3–4   Increase awareness
-Cycle 5–6   Identify patterns
-Cycle 7–8   Challenge assumptions
-Cycle 9–10  Clarify direction
-Cycle 11+   Commit to action
+# ThriveMap Reflection Progression Model
+
+• Cycle 1–2   Stabilize thinking
+• Cycle 3–4   Increase awareness
+• Cycle 5–6   Identify patterns
+• Cycle 7–8   Challenge assumptions
+• Cycle 9–10  Clarify direction
+• Become      Commit to action
 
 ---
 
