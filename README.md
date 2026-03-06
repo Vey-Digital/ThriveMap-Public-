@@ -1,158 +1,192 @@
-> 
-# ThriveMap™
+<div align="center">
 
-**ThriveMap** is a structured reflection system designed to help individuals navigate life transitions with clarity, resilience, and intentional decision-making.
+<h1>ThriveMap™</h1>
 
-Developed by **VeyDigital**.
+<p>
+Structured reflection for clarity, resilience, and intentional decision-making.
+</p>
 
-![Expo](https://img.shields.io/badge/Expo-000000?style=flat&logo=expo)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-
-<br>
-
-<img width="406" height="1000" alt="ThriveMap Home Screen" src="https://github.com/user-attachments/assets/71fcb94e-de3e-43b9-a1df-f2cbcf2cb6f9" />
+<p><strong>Developed by VeyDigital</strong></p>
 
 <br>
 
----
+<img src="https://img.shields.io/badge/Expo-000000?style=flat&logo=expo">
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript">
 
-# Overview
+<br><br>
 
-ThriveMap provides a structured approach to reflection and decision-making.
+<img width="406" height="1000" alt="ThriveMap Home Screen"
+src="https://github.com/user-attachments/assets/71fcb94e-de3e-43b9-a1df-f2cbcf2cb6f9"/>
 
-Instead of unstructured journaling, the system guides users through repeatable cognitive exercises that help them pause, evaluate options, and align actions with long-term goals.
+</div>
 
-The platform is designed for moments when clarity matters most:
+<hr>
 
-• career transitions  
-• layoffs or organizational change  
-• leadership and professional development  
-• personal growth and life direction  
+<h2>Overview</h2>
 
-# ThriveMap Reflection Progression Model
+<p>
+I built <strong>ThriveMap</strong> to help people think clearly during moments of uncertainty.
+</p>
 
-• Cycle 1–2   Stabilize thinking
-• Cycle 3–4   Increase awareness
-• Cycle 5–6   Identify patterns
-• Cycle 7–8   Challenge assumptions
-• Cycle 9–10  Clarify direction
-• Become      Commit to action
+<p>
+Instead of open-ended journaling, the system guides reflection through structured prompts that support better decisions and long-term alignment.
+</p>
 
----
+<p>ThriveMap is especially useful during:</p>
 
-# The ThriveMap Loop
+<ul>
+<li>career transitions</li>
+<li>organizational change or layoffs</li>
+<li>leadership development</li>
+<li>personal growth and life direction</li>
+</ul>
 
-At the core of ThriveMap is a repeatable reflection cycle.
+<p><strong>The goal is simple: turn reflection into consistent action.</strong></p>
 
-1. **Visualize**  
-   Imagine future scenarios with clarity and intention.
+<hr>
 
-2. **Write**  
-   Capture insights through structured prompts.
+<h2>The 70-Day Reflection Journey</h2>
 
-3. **Review**  
-   Identify patterns across time and reflection entries.
+<p>
+ThriveMap organizes reflection into a structured rhythm.
+</p>
 
-4. **Align**  
-   Translate reflection into intentional decisions and actions.
+<p>
+<strong>7 days = 1 cycle</strong><br>
+<strong>10 cycles = a 70-day reflection journey</strong>
+</p>
 
-This loop helps individuals shift from reactive decision-making to thoughtful, deliberate direction.
-four Domains
-app/exercise/personal.tsx
-- app/exercise/professional.tsx
-- app/exercise/social.tsx
-- app/exercise/integrated.tsx
----
+<table>
+<tr>
+<th>Cycles</th>
+<th>Focus</th>
+</tr>
+<tr>
+<td>1–2</td>
+<td>Stabilize thinking</td>
+</tr>
+<tr>
+<td>3–4</td>
+<td>Increase awareness</td>
+</tr>
+<tr>
+<td>5–6</td>
+<td>Identify patterns</td>
+</tr>
+<tr>
+<td>7–8</td>
+<td>Challenge assumptions</td>
+</tr>
+<tr>
+<td>9–10</td>
+<td>Clarify direction</td>
+</tr>
+</table>
 
-# Reflection Domains
+<hr>
 
-ThriveMap organizes reflection across three primary domains.
-The user should feel guided, not measured.
-## Personal — Wellness
+<h2>The ThriveMap Reflection Loop</h2>
 
-Focus on internal stability and self-development during periods of change.
+<p>Each reflection follows a simple loop:</p>
 
-Key areas include identity, mindset, habits, and personal resilience.
+<ul>
+<li><strong>Visualize</strong> — imagine future scenarios clearly</li>
+<li><strong>Write</strong> — capture insights through guided prompts</li>
+<li><strong>Review</strong> — identify patterns across reflections</li>
+<li><strong>Align</strong> — translate reflection into intentional action</li>
+</ul>
 
----
+<p>
+This process helps shift thinking from <strong>reactive decisions to intentional direction.</strong>
+</p>
 
-## Professional — Career
+<hr>
 
-Support strategic thinking around career direction and leadership growth.
+<h2>Reflection Domains</h2>
 
-Common use cases include:
+<p>ThriveMap organizes reflection across four areas of life.</p>
 
-• navigating layoffs or restructuring  
-• evaluating career transitions  
-• leadership reflection  
-• long-term professional planning  
+<ul>
+<li><strong>Personal</strong> — identity, mindset, and resilience</li>
+<li><strong>Professional</strong> — career direction and leadership growth</li>
+<li><strong>Social</strong> — relationships and communication</li>
+<li><strong>Integrated</strong> — aligning insights across life domains</li>
+</ul>
 
----
+<p>The goal is guidance — not measurement.</p>
 
-## Social — Connection
+<hr>
 
-Strengthen communication, relationships, and social support systems while navigating personal or professional transitions.
+<h2>Completion Moment</h2>
 
-Maintaining strong connections during uncertainty is a critical component of long-term wellbeing.
+<p>
+At the end of <strong>Cycle 10</strong>, ThriveMap pauses to recognize progress.
+</p>
 
----
+<p>The system summarizes the journey with insights such as:</p>
 
-# Why Cognitive Rehearsal?
+<ul>
+<li>Total reflections</li>
+<li>Helpful session percentage</li>
+<li>Weekly consistency</li>
+<li>Dominant emotional pattern</li>
+</ul>
 
-Important decisions are often made under pressure or uncertainty.
+<p>
+Users can then begin a new reflection journey or adjust their weekly reflection rhythm.
+</p>
 
-Cognitive rehearsal helps individuals prepare for these moments by mentally exploring potential futures before acting.
+<hr>
 
-Rather than reacting immediately, the process creates space for thoughtful reflection and clearer judgment.
+<h2>Technology</h2>
 
-Structured reflection strengthens:
+<p>ThriveMap is built with modern cross-platform technologies.</p>
 
-• clarity of direction  
-• emotional resilience during change  
-• confidence in decision-making  
-• alignment between values and actions  
+<ul>
+<li>React Native</li>
+<li>Expo</li>
+<li>TypeScript</li>
+</ul>
 
----
+<p>Runs on:</p>
 
-# Technology
+<ul>
+<li>iOS</li>
+<li>Android</li>
+<li>Web</li>
+</ul>
 
-ThriveMap is built using modern cross-platform technologies.
+<hr>
 
-**Core stack**
+<h2>Demo</h2>
 
-• React Native  
-• Expo  
-• TypeScript  
+<p>
+A short demo (60–90 seconds) will showcase the core workflow of ThriveMap.
+</p>
 
-The application runs across:
+<p>The demo will be shared through:</p>
 
-• iOS  
-• Android  
-• Web
+<ul>
+<li>GitHub</li>
+<li>Expo project showcase</li>
+<li>Reddit</li>
+<li>X (Twitter)</li>
+</ul>
 
----
+<hr>
 
-# Public Demo
+<h2>Author</h2>
 
-A short demo video (60–90 seconds) demonstrates the core workflow of ThriveMap.
+<p><strong>VeyDigital</strong></p>
 
-The demo will be distributed across the following platforms:
+<p>
+Building systems that transform insight into consistent action.
+</p>
 
-• GitHub (repository overview)  
-• Expo (project showcase)  
-• Reddit  
-• X (Twitter)  
+<hr>
 
----
-
-# Author
-
-**VeyDigital**
-
-Building intelligence layers that help people transform insight into consistent action.
-
----
-
-© 2026 VeyDigital. All rights reserved.  
-ThriveMap™ is a VeyDigital system.
+<p align="center">
+© 2026 VeyDigital. All rights reserved.<br>
+<strong>ThriveMap™</strong> is a VeyDigital system.
+</p>
