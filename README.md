@@ -1,5 +1,4 @@
-> A structured system for decision clarity during career transitions, personal growth, and life’s most important choices.
-
+> 
 # ThriveMap™
 
 **ThriveMap** is a structured reflection system designed to help individuals navigate life transitions with clarity, resilience, and intentional decision-making.
