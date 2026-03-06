@@ -2,7 +2,7 @@
 
 # ThriveMap™
 
-**ThriveMap** is a structured reflection and cognitive rehearsal system designed to help individuals think clearly, navigate uncertainty, and align decisions with long-term direction.
+**ThriveMap** is a structured reflection system designed to help individuals navigate life transitions with clarity, resilience, and intentional decision-making.
 
 Developed by **VeyDigital**.
 
