@@ -58,13 +58,17 @@ At the core of ThriveMap is a repeatable reflection cycle.
    Translate reflection into intentional decisions and actions.
 
 This loop helps individuals shift from reactive decision-making to thoughtful, deliberate direction.
-
+four Domains
+app/exercise/personal.tsx
+- app/exercise/professional.tsx
+- app/exercise/social.tsx
+- app/exercise/integrated.tsx
 ---
 
 # Reflection Domains
 
 ThriveMap organizes reflection across three primary domains.
-
+The user should feel guided, not measured.
 ## Personal — Wellness
 
 Focus on internal stability and self-development during periods of change.
