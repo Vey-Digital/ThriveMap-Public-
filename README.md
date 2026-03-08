@@ -114,6 +114,21 @@ This process helps shift thinking from <strong>reactive decisions to intentional
 <li><strong>Integrated</strong> — aligning insights across life domains</li>
 </ul>
 
+## cognitive sequencing
+CBT rehearsal models
+performance psychology
+mental simulation training
+reflective journaling systems
+
+## flow
+| Step      | Cognitive function      |
+| --------- | ----------------------- |
+| Ground    | attention regulation    |
+| Visualize | mental simulation       |
+| Rehearse  | behavioral rehearsal    |
+| Write     | cognitive consolidation |
+| Anchor    | identity reinforcement  |
+
 <p>The goal is guidance — not measurement.</p>
 
 <hr>
