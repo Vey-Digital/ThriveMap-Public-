@@ -59,32 +59,6 @@ Every session follows a five-step reflection framework:
 
 **Ground → Visualize → Rehearse → Write → Anchor**
 
-### Ground
-Pause and center attention before beginning reflection.
-
-### Visualize
-Imagine the future version of yourself acting with clarity and intention.
-
-### Rehearse
-Mentally practice responding to real situations in a way that reflects your values.
-
-### Write
-Capture insights and observations through guided reflection.
-
-### Anchor
-Choose one small action that carries the reflection into real life.
-
-Small actions repeated consistently help shape long-term identity.
-
----
-
-## Key Features
-
-- Structured reflection framework  
-- Calm, distraction-free interface  
-- Guided prompts that encourage clear thinking  
-- Consistent daily rhythm for personal growth  
-- Works across personal, professional, and social life domains  
 
 ThriveMap focuses on **clarity, alignment, and intentional action** rather than productivity metrics or gamification.
 
