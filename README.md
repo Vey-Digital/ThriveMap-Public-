@@ -13,9 +13,7 @@ Structured reflection for clarity, resilience, and intentional decision-making.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript">
 
 <br><br>
-
-<img width="406" height="1000" alt="ThriveMap Home Screen"
-src="https://github.com/user-attachments/assets/71fcb94e-de3e-43b9-a1df-f2cbcf2cb6f9"/>
+guided walkthrough
 
 </div>
 
