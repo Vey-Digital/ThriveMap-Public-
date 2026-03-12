@@ -18,6 +18,7 @@ Developed by **VeyDigital**
   # ThriveMap™
 
 Structured reflection for clarity, resilience, and intentional decision-making.
+###click me
 
 [![Open ThriveMap site](./assets/thrivemap/home.png)](https://thrive-map-public-vey-39778c4b.vercel.app)
 </section>
