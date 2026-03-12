@@ -8,12 +8,12 @@ Developed by **VeyDigital**
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
 
+
 ## Product Walkthrough
 
 **Guided walkthrough · 1 minute 31 seconds**
 
-[![Watch the product walkthrough](./assets/thrivemap/home.png)](./assets/ThriveMap_v2_Youtube.mp4)
-
+[Watch the product walkthrough](./assets/ThriveMap_v2_Youtube.mp4)
 ---
 
 ## Overview
