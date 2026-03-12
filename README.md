@@ -22,13 +22,14 @@ Developed by **VeyDigital**
   <source src="./assets/DamneunThriveMap_2026-03-11_16-47-48.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<source src="./assets/assets/ThriveMap_Nav_VeyDamneun_v1.mp4" type="video/mp4">
+</div>
+
 ---
 
 ## Overview
 
 **ThriveMap** is for people who want more than a blank page.
-
-When life feels uncertain, stressful, or hard to sort through, ThriveMap helps users slow down, reflect with structure, and move forward with greater intention. Instead of relying only on open-ended journaling, the app guides reflection through thoughtful prompts that support clarity, emotional steadiness, and better decision-making over time.
 
 ThriveMap can be especially helpful during:
 
@@ -59,5 +60,3 @@ A repeatable system designed for clarity, consistency, and momentum.
 </div>
 
 ---
-
-
