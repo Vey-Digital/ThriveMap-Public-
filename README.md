@@ -18,10 +18,10 @@ Developed by **VeyDigital**
 
 **Guided walkthrough · 55 seconds**
 
-<video src="assets/DamneunThriveMap_2026-03-11%2016-47-48.mp4" controls width="100%"></video>
-
-</div>
-
+<video controls width="100%">
+  <source src="./assets/DamneunThriveMap_2026-03-11_16-47-48.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 ## Overview
