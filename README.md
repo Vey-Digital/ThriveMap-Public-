@@ -15,13 +15,9 @@ Developed by **VeyDigital**
 
 ## Product Walkthrough
 
-**Guided walkthrough · 55 seconds**
+**Guided walkthrough · 1 minute 31 seconds**
 
-<video controls width="100%">
-  <source src="./assets/DamneunThriveMap_2026-03-11_16-47-48.mp4" type="video/mp4">
- assets/DamneunThriveMap_2026-03-11 16-47-48.mp4
-</video>
-
+[Watch the product walkthrough](./assets/DamneunThriveMap_2026-03-11_16-47-48.mp4)
 </div>
 
 ---
