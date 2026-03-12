@@ -17,7 +17,7 @@ Structured reflection for clarity, resilience, and intentional decision-making.
 
 **Guided walkthrough · 55 seconds**
 
-[Watch the video walkthrough](./ThriveMap_Nav_VeyDamneun_v1.mp4)
+[Watch the video walkthrough](file:///Users/veydamneun/Documents/dev/thrivemap/ThriveMap_Nav_VeyDamneun_v1.mp4)
 
 ---
 
