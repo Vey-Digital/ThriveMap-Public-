@@ -13,9 +13,11 @@ Structured reflection for clarity, resilience, and intentional decision-making.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript">
 
 <br><br>
-guided walkthrough
+## Product Walkthrough
 
-</div>
+**Guided walkthrough · 55 seconds**
+
+[Watch the video walkthrough](./ThriveMap_Nav_VeyDamneun_v1.mp4)
 
 ---
 
