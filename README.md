@@ -13,7 +13,15 @@ Developed by **VeyDigital**
 
 **Guided walkthrough · 1 minute 31 seconds**
 
-DONE
+<section>
+  <h2>Product Walkthrough</h2>
+  <p><strong>Guided walkthrough · 1 minute 31 seconds</strong></p>
+
+  <video controls preload="metadata" poster="./assets/thrivemap/home.png" style="width:100%; max-width:900px; border-radius:14px; background:#000;">
+    <source src="./assets/ThriveMap_v2_Youtube.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+</section>
 ---
 
 ## Overview
