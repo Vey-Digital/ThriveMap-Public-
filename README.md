@@ -1,26 +1,12 @@
-<div align="center">
-
 # ThriveMap™
 
 **Structured reflection for clarity, resilience, and intentional decision-making.**
 
 Developed by **VeyDigital**
 
-<br>
-
-<img src="https://img.shields.io/badge/Expo-000000?style=flat&logo=expo" alt="Expo">
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react" alt="React Native">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript">
-<br><br>
-
-
-# ThriveMap™
-
-**Structured reflection for clarity, resilience, and intentional decision-making.**
-
-Developed by **VeyDigital**
-
-</div>
+![Expo](https://img.shields.io/badge/Expo-000000?style=flat&logo=expo)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
 
 ## Product Walkthrough
 
@@ -36,10 +22,10 @@ Developed by **VeyDigital**
 
 ThriveMap can be especially helpful during:
 
-- career transitions  
-- layoffs or organizational change  
-- leadership growth  
-- personal reflection and life direction  
+- career transitions
+- layoffs or organizational change
+- leadership growth
+- personal reflection and life direction
 
 At its core, ThriveMap is about one thing:
 
@@ -47,19 +33,13 @@ At its core, ThriveMap is about one thing:
 
 ---
 
-# The ThriveMap Loop
-
-<div align="center">
+## The ThriveMap Loop
 
 A repeatable system designed for clarity, consistency, and momentum.
 
-<br/>
-
-<img src="https://img.shields.io/badge/1%20Define-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/2%20Rehearse-6d28d9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/3%20Track-1f2937?style=for-the-badge" />
-<img src="https://img.shields.io/badge/4%20Reflect-374151?style=for-the-badge" />
-
-</div>
+![Define](https://img.shields.io/badge/1%20Define-111827?style=for-the-badge)
+![Rehearse](https://img.shields.io/badge/2%20Rehearse-6d28d9?style=for-the-badge)
+![Track](https://img.shields.io/badge/3%20Track-1f2937?style=for-the-badge)
+![Reflect](https://img.shields.io/badge/4%20Reflect-374151?style=for-the-badge)
 
 ---
