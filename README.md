@@ -2,103 +2,110 @@
 
 # ThriveMap™
 
-Structured reflection for clarity, resilience, and intentional decision-making.
+**Structured reflection for clarity, resilience, and intentional decision-making.**
 
-**Developed by VeyDigital**
+Developed by **VeyDigital**
 
 <br>
 
-<img src="https://img.shields.io/badge/Expo-000000?style=flat&logo=expo">
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript">
+<img src="https://img.shields.io/badge/Expo-000000?style=flat&logo=expo" alt="Expo">
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react" alt="React Native">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript">
 
 <br><br>
+
 ## Product Walkthrough
 
 **Guided walkthrough · 55 seconds**
 
 [Watch the video walkthrough](file:///Users/veydamneun/Documents/dev/thrivemap/ThriveMap_Nav_VeyDamneun_v1.mp4)
 
+</div>
+
 ---
 
 ## Overview
 
-**ThriveMap** helps people think clearly during moments of uncertainty.
+**ThriveMap** is built for people who want more than a blank page.
 
-Instead of open-ended journaling, the system guides reflection through **structured prompts** that support better decisions and long-term alignment.
+When life feels uncertain, stressful, or unclear, ThriveMap helps users slow down, reflect with structure, and move forward with more intention. Instead of relying only on open-ended journaling, the app guides people through thoughtful prompts that support clarity, emotional steadiness, and better decision-making.
 
-ThriveMap is especially useful during:
+ThriveMap can be especially helpful during:
 
 - career transitions  
-- organizational change or layoffs  
-- leadership development  
-- personal growth and life direction  
+- layoffs or organizational change  
+- leadership growth  
+- personal reflection and life direction  
 
-The goal is simple:
+At its core, ThriveMap is about one thing:
 
-**Turn reflection into consistent action.**
+**turning reflection into meaningful action.**
 
 ---
 
 ## The 70-Day Reflection Journey
 
-ThriveMap organizes reflection into a structured rhythm designed to build clarity and momentum over time.
+ThriveMap is designed around a simple rhythm that helps reflection become a steady practice instead of something people do only when they feel overwhelmed.
 
-**7 days = 1 cycle**  
-**10 cycles = a 70-day reflection journey**
+- **7 days = 1 cycle**  
+- **10 cycles = a 70-day reflection journey**
 
-Each day includes a guided session that walks through a repeatable reflection process.
+Each day, users move through a guided session built on the same core structure. Over time, that rhythm helps build stronger self-awareness, more thoughtful choices, and a greater sense of direction.
 
-This structure helps users develop the habit of thoughtful decision-making rather than reacting to stress or uncertainty.
+The goal is not perfection. The goal is consistency, clarity, and momentum.
 
 ---
 
 ## The Reflection Flow
 
-Every session follows a five-step reflection framework:
+Every session follows a five-step framework:
 
 **Ground → Visualize → Rehearse → Write → Anchor**
 
+This flow helps users settle their thoughts, picture the kind of response or future they want, practice it mentally, put it into words, and carry one clear takeaway forward.
 
-ThriveMap focuses on **clarity, alignment, and intentional action** rather than productivity metrics or gamification.
+ThriveMap is intentionally designed around **clarity, alignment, and intentional action** rather than pressure, streaks, or gamified productivity.
 
 ---
 
 ## Technology
 
-ThriveMap is built using a modern cross-platform mobile stack:
+ThriveMap is built with a modern cross-platform mobile stack:
 
 - **Expo**
 - **React Native**
 - **TypeScript**
 - **React Native Reanimated**
-- **Moti animations**
+- **Moti**
 
-The design emphasizes simplicity, performance, and a calm user experience.
+The product is designed to feel calm, smooth, and focused, with an emphasis on simplicity, performance, and a supportive mobile experience.
 
 ---
 
 ## Philosophy
 
-Many journaling apps ask users to write freely.
+A lot of journaling tools ask people to start with a blank page.
 
 ThriveMap takes a different approach.
 
-Reflection is guided through a structured process so users can:
+Sometimes people do not need more noise or more pressure. They need a clear structure that helps them think, feel, and respond more intentionally. That is where ThriveMap comes in.
+
+Through guided reflection, users can:
 
 - think more clearly  
-- practice better responses to challenges  
-- align daily actions with long-term values  
+- respond more thoughtfully to challenges  
+- reconnect daily actions with long-term values  
+- build self-trust through small, consistent practice  
 
-Over time, these small reflections can compound into meaningful change.
+Over time, those small moments of reflection can lead to meaningful change.
 
 ---
 
 ## About VeyDigital
 
-**VeyDigital** builds digital tools that help individuals think clearly, make better decisions, and navigate complex situations with confidence.
+**VeyDigital** creates digital tools designed to help people think clearly, make better decisions, and navigate difficult moments with greater confidence.
 
-ThriveMap is part of a broader effort to create thoughtful technology that supports human judgment rather than replacing it.
+ThriveMap is part of that broader vision. It reflects a belief that technology should support human judgment, not replace it. The goal is to build tools that feel useful, thoughtful, and genuinely supportive in everyday life.
 
 ---
 
