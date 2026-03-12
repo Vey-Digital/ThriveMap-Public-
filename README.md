@@ -17,6 +17,7 @@ Developed by **VeyDigital**
 ## Product Walkthrough
 
 **Guided walkthrough · 55 seconds**
+## Product Walkthrough
 
 [Watch the video walkthrough](./assets/demo/ThriveMap_Nav_VeyDamneun_v1.mp4)
 
