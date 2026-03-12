@@ -13,12 +13,20 @@ Developed by **VeyDigital**
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript">
 <br><br>
 
+
+# ThriveMap™
+
+**Structured reflection for clarity, resilience, and intentional decision-making.**
+
+Developed by **VeyDigital**
+
+</div>
+
 ## Product Walkthrough
 
 **Guided walkthrough · 1 minute 31 seconds**
 
 [Watch the product walkthrough](./assets/DamneunThriveMap_2026-03-11_16-47-48.mp4)
-</div>
 
 ---
 
