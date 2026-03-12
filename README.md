@@ -10,7 +10,6 @@ Developed by **VeyDigital**
 ## Product Walkthrough
 
 **Guided walkthrough · 1 minute 31 seconds**
-
 [Watch the product walkthrough](./assets/ThriveMap_v2_Youtube.mp4)
 ---
 
