@@ -18,7 +18,9 @@ Developed by **VeyDigital**
 
 **Guided walkthrough · 55 seconds**
 
-[Watch the video walkthrough](./assets/demo/ThriveMap_Nav_VeyDamneun_v1.mp4)
+[Watch the video walkthrough]
+
+file:///Users/veydamneun/Documents/dev/thrivemap/assets/DamneunThriveMap_2026-03-11%2016-47-48.mp4
 </div>
 
 ---
