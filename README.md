@@ -18,7 +18,7 @@ Developed by **VeyDigital**
 
 **Guided walkthrough · 55 seconds**
 
-[Watch the video walkthrough](./assets/demo/ThriveMap_Nav_VeyDamneun_v1.mp4)
+Walkthrough video available in the project files and will be published in the public demo soon.
 
 </div>
 
@@ -26,9 +26,9 @@ Developed by **VeyDigital**
 
 ## Overview
 
-**ThriveMap** is built for people who want more than a blank page.
+**ThriveMap** is for people who want more than a blank page.
 
-When life feels uncertain, stressful, or unclear, ThriveMap helps users slow down, reflect with structure, and move forward with more intention. Instead of relying only on open-ended journaling, the app guides people through thoughtful prompts that support clarity, emotional steadiness, and better decision-making.
+When life feels uncertain, stressful, or hard to sort through, ThriveMap helps users slow down, reflect with structure, and move forward with greater intention. Instead of relying only on open-ended journaling, the app guides reflection through thoughtful prompts that support clarity, emotional steadiness, and better decision-making over time.
 
 ThriveMap can be especially helpful during:
 
@@ -45,12 +45,12 @@ At its core, ThriveMap is about one thing:
 
 ## The 70-Day Reflection Journey
 
-ThriveMap is designed around a simple rhythm that helps reflection become a steady practice instead of something people do only when they feel overwhelmed.
+ThriveMap follows a simple rhythm that helps reflection become a steady practice instead of something people only reach for during stressful moments.
 
-- **7 days = 1 cycle**  
+- **7 days = 1 cycle**
 - **10 cycles = a 70-day reflection journey**
 
-Each day, users move through a guided session built on the same core structure. Over time, that rhythm helps build stronger self-awareness, more thoughtful choices, and a greater sense of direction.
+Each day, users move through a guided session built on the same core structure. Over time, that rhythm supports stronger self-awareness, more thoughtful choices, and a clearer sense of direction.
 
 The goal is not perfection. The goal is consistency, clarity, and momentum.
 
@@ -62,9 +62,9 @@ Every session follows a five-step framework:
 
 **Ground → Visualize → Rehearse → Write → Anchor**
 
-This flow helps users settle their thoughts, picture the kind of response or future they want, practice it mentally, put it into words, and carry one clear takeaway forward.
+This process helps users settle their thoughts, imagine the kind of response or future they want, mentally practice it, put it into words, and carry one clear takeaway forward.
 
-ThriveMap is intentionally designed around **clarity, alignment, and intentional action** rather than pressure, streaks, or gamified productivity.
+ThriveMap is intentionally built around **clarity, alignment, and intentional action** rather than pressure, streaks, or gamified productivity.
 
 ---
 
@@ -78,13 +78,13 @@ ThriveMap is built with a modern cross-platform mobile stack:
 - **React Native Reanimated**
 - **Moti**
 
-The product is designed to feel calm, smooth, and focused, with an emphasis on simplicity, performance, and a supportive mobile experience.
+The experience is designed to feel calm, smooth, and focused, with an emphasis on simplicity, performance, and a supportive mobile experience.
 
 ---
 
 ## Philosophy
 
-A lot of journaling tools ask people to start with a blank page.
+A lot of journaling tools begin with a blank page.
 
 ThriveMap takes a different approach.
 
@@ -103,9 +103,9 @@ Over time, those small moments of reflection can lead to meaningful change.
 
 ## About VeyDigital
 
-**VeyDigital** creates digital tools designed to help people think clearly, make better decisions, and navigate difficult moments with greater confidence.
+**VeyDigital** creates digital tools that help people think clearly, make better decisions, and navigate difficult moments with greater confidence.
 
-ThriveMap is part of that broader vision. It reflects a belief that technology should support human judgment, not replace it. The goal is to build tools that feel useful, thoughtful, and genuinely supportive in everyday life.
+ThriveMap is part of that broader vision. It reflects the belief that technology should support human judgment, not replace it. The goal is to build tools that feel useful, thoughtful, and genuinely supportive in everyday life.
 
 ---
 
