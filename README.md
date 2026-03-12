@@ -11,7 +11,8 @@ Developed by **VeyDigital**
 ## Product Walkthrough
 
 **Guided walkthrough · 1 minute 31 seconds**
-assets/DamneunThriveMap_2026-03-11 16-47-48.mp4
+
+[![Watch the product walkthrough](./assets/thrivemap/home.png)](./assets/ThriveMap_v2_Youtube.mp4)
 ---
 
 ## Overview
