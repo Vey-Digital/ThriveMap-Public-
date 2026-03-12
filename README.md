@@ -6,13 +6,7 @@
 
 Developed by **VeyDigital**
 
-<br>
 
-<img src="https://img.shields.io/badge/Expo-000000?style=flat&logo=expo" alt="Expo">
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react" alt="React Native">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript">
-
-<br><br>
 
 <br>
 
@@ -26,7 +20,6 @@ Developed by **VeyDigital**
 
 **Guided walkthrough · 55 seconds**
 
-[Watch the video walkthrough](https://github.com/Vey-Digital/ThriveMap-Public-/blob/main/assets/DamneunThriveMap_2026-03-11%2016-47-48.mp4?raw=true)
 
 <video src="https://github.com/Vey-Digital/ThriveMap-Public-/raw/main/assets/DamneunThriveMap_2026-03-11%2016-47-48.mp4" controls width="100%"></video>
 
