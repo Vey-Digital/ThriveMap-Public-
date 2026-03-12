@@ -20,8 +20,10 @@ Developed by **VeyDigital**
 
 **Guided walkthrough · 55 seconds**
 
+<video src="assets/DamneunThriveMap_2026-03-11%2016-47-48.mp4" controls width="100%"></video>
 
-<video src="https://github.com/Vey-Digital/ThriveMap-Public-/raw/main/assets/DamneunThriveMap_2026-03-11%2016-47-48.mp4" controls width="100%"></video>
+</div>
+
 
 </div>
 ---
