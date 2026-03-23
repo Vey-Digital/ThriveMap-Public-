@@ -180,7 +180,7 @@ help you understand yourself faster, without adding noise.
 
 Updated multi-device view:
 
-![ThriveMap All Devices](./assets/images/allDevices.png)
+![ThriveMap All Devices](./assets/assets/images/allDevices.png)
 
 ---
 
