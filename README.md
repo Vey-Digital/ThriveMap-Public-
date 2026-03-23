@@ -183,7 +183,7 @@ The app has been tested across:
 - **Web**
 - **iPhone simulator**
 - **Android emulator**
-
+https://github.com/Vey-Digital/ThriveMap-Public-/blob/main/assets/assets/images/allDevices.png
 ---
 
 ## Current Capabilities
