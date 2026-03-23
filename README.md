@@ -183,7 +183,7 @@ The app has been tested across:
 - **Web**
 - **iPhone simulator**
 - **Android emulator**
-https://github.com/Vey-Digital/ThriveMap-Public-/blob/main/assets/assets/images/allDevices.png
+
 ---
 
 ## Current Capabilities
@@ -238,11 +238,9 @@ help people understand themselves faster, with more clarity, using the reflectio
 ---
 
 ## Example Screenshot
-
 Updated multi-device view:
 
 ![ThriveMap All Devices](./assets/images/allDevices.png)
-
 ---
 
 ## Who ThriveMap Is For
