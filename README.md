@@ -11,9 +11,9 @@ Developed by **VeyDigital**
 
 ## See the patterns in how you live, not just what you write
 
-ThriveMap is a continuous reflection system built on structured 70 day journeys.
+ThriveMap is a structured reflection system built around repeatable 70 day journeys.
 
-It helps people move beyond scattered journaling and start seeing real patterns in behavior, decisions, emotional steadiness, and follow-through over time.
+It helps people move beyond scattered journaling and see clearer patterns in behavior, decisions, emotional steadiness, and follow-through over time.
 
 ---
 
@@ -27,16 +27,16 @@ It helps people move beyond scattered journaling and start seeing real patterns 
 
 ## What is ThriveMap?
 
-ThriveMap is a behavioral insight system.
+ThriveMap is a behavioral reflection and insight system for people who want more than a blank page.
 
-It is designed for people who want to understand:
+It is designed to help users understand:
 - how they actually show up
 - what patterns keep repeating
-- what is changing
-- what is worth carrying forward
+- what is changing over time
+- what is worth carrying into the next season
 
-This is not a blank-page journaling app.  
-This is a structured system for pattern awareness, grounded reflection, and intentional action.
+This is not just a journaling app.  
+It is a more structured way to reflect, review, and learn from what you have actually lived.
 
 ---
 
@@ -44,49 +44,49 @@ This is a structured system for pattern awareness, grounded reflection, and inte
 
 A **70 day journey** is ThriveMap’s core reflection cycle.
 
-Each 70 day journey is made up of:
+Each journey includes:
 - **10 cycles**
 - **7 days per cycle**
 - **4 reflection domains**
-- a repeatable reflection practice that helps users learn from lived experience over time
+- one repeatable reflection flow that helps users build insight through consistency
 
-This structure matters because it is long enough to reveal meaningful patterns, but still focused enough to help people stay engaged.
+This structure is intentional. It is long enough to reveal meaningful patterns, but focused enough to stay practical.
 
-Instead of treating reflection as random entries, ThriveMap organizes reflection into a complete journey with a beginning, a middle, and a measurable end. That gives users a clearer view of how they think, respond, recover, and grow.
+Instead of treating reflection as isolated entries, ThriveMap turns it into a complete journey with a beginning, a middle, and an ending users can actually review.
 
 ---
 
 ## Core Structure
 
-ThriveMap runs on a simple but powerful system:
+ThriveMap is built on a simple system:
 
 - **70 day journeys**
 - **10 cycles per journey**
 - **4 reflection domains**
-- a repeatable reflection flow for each session
+- a structured reflection flow for each session
 
-Each journey reveals how a person thinks, acts, and returns.  
+Each journey helps users see how they think, respond, recover, and move forward.  
 Each new journey builds on the one before it.
 
 ---
 
 ## Reflection Flow
 
-Every session follows a consistent structure:
+Every reflection session follows the same flow:
 
 **Ground → Visualize → Rehearse → Write → Anchor**
 
-This creates:
+This structure supports:
 - stronger emotional clarity
-- more consistency in reflection
+- more consistent reflection
 - better recall over time
-- a clearer link between reflection and action
+- a clearer bridge between reflection and action
 
 ---
 
 ## Four Reflection Domains
 
-ThriveMap is designed to support the full picture of how people live and function.
+ThriveMap helps users reflect across the parts of life that shape how they function day to day.
 
 The four domains are:
 
@@ -95,7 +95,7 @@ The four domains are:
 - **Social**
 - **Integrated**
 
-This makes it easier to reflect with intention instead of dumping everything into one place.
+This keeps reflection more focused and more useful than storing everything in one undifferentiated stream.
 
 ---
 
@@ -104,13 +104,13 @@ This makes it easier to reflect with intention instead of dumping everything int
 At the end of a completed 70 day journey, ThriveMap helps surface:
 
 - **Strongest signal**  
-  The clearest pattern in how you showed up
+  The clearest recurring pattern in how you showed up
 
 - **Clear summary**  
   A grounded explanation of what stood out
 
 - **Comparison across journeys**  
-  What changed from the previous journey
+  What changed from the previous completed journey
 
 - **Carry forward**  
   What to protect, strengthen, or build next
@@ -119,7 +119,7 @@ At the end of a completed 70 day journey, ThriveMap helps surface:
 
 ## Product Flow
 
-ThriveMap is designed around a cleaner, more focused loop:
+ThriveMap now follows a cleaner, more focused experience:
 
 **Home → Summary → Continue**
 
@@ -127,12 +127,12 @@ ThriveMap is designed around a cleaner, more focused loop:
 Shows where you are now and what to do next.
 
 ### Journey Complete
-Marks the completion of a full 70 day journey and gives a clean path into review.
+Marks the end of a full 70 day journey and gives a clean path into review.
 
 ### Summary
-Holds the deepest value in the product by turning saved reflection into insight, signals, and next-step direction.
+Holds the deepest value in the app by turning saved reflection into signals, patterns, and next-step direction.
 
-This makes the experience easier to return to and easier to trust.
+This flow helps reduce repetition across screens and makes the experience easier to trust and return to.
 
 ---
 
@@ -142,13 +142,13 @@ This makes the experience easier to return to and easier to trust.
   What people return to consistently matters more than isolated effort
 
 - **Structure reduces noise**  
-  A 70 day journey creates enough signal to reveal meaningful patterns
+  A 70 day journey creates enough signal to show meaningful patterns
 
 - **Insight needs translation**  
-  Most tools collect entries. ThriveMap helps interpret them in a more useful way
+  Most tools collect entries. ThriveMap helps interpret them
 
 - **Reflection becomes more actionable**  
-  Users do not just write. They can review what their reflection is showing them over time
+  Users do not just write. They can review what their reflection is showing over time
 
 ---
 
@@ -170,14 +170,14 @@ Only structured reflection, visible patterns, and clearer interpretation based o
 
 Recent updates go beyond what is shown in the original product walkthrough.
 
-The current version includes broader refinement across the experience, including:
-- Home cleanup and clearer action flow
-- a stronger Summary destination
-- a cleaner retention loop
-- improved completion flow
-- profile cleanup
-- export continuity
-- better role separation between screens
+The current version includes:
+- cleaner Home flow
+- stronger Summary positioning
+- improved Journey Complete experience
+- less repetition across screens
+- cleaner Profile organization
+- continued export support
+- better role separation between Home, Summary, and completion flow
 
 The app has been tested across:
 - **Web**
@@ -197,20 +197,20 @@ The app has been tested across:
 - Comparison across completed journeys
 - Export support
 - Local-first app experience
-- Clean Home to Summary retention flow
+- Cleaner Home to Summary retention flow
 
 ---
 
 ## In Development
 
 ### ThriveMap Pro
-ThriveMap Pro is being built for people who want deeper review and stronger reflection support over time.
+ThriveMap Pro is designed for people who want deeper reflection review and stronger insight over time.
 
 Planned direction includes:
 - enhanced summaries
 - better pattern visibility across completed journeys
-- more useful carry-forward guidance
-- stronger long-term reflection review
+- stronger carry-forward guidance
+- more useful long-term review
 
 ### ThriveMap Pro Max
 ThriveMap Pro Max is in production planning with a more advanced intelligence layer.
@@ -222,7 +222,7 @@ Direction includes:
 - more personalized insight support
 - stronger reflection guidance without losing trust or clarity
 
-The direction is practical and human:
+The goal is practical and human:
 help people understand themselves faster, with more clarity, using the reflection they already chose to save.
 
 ---
@@ -233,14 +233,16 @@ help people understand themselves faster, with more clarity, using the reflectio
 - **React Native**
 - **TypeScript**
 - local-first data handling
-- modular insight and journey architecture
+- modular journey and insight architecture
 
 ---
 
 ## Example Screenshot
+
 Updated multi-device view:
 
 ![ThriveMap All Devices](./assets/images/allDevices.png)
+
 ---
 
 ## Who ThriveMap Is For
@@ -254,7 +256,7 @@ ThriveMap can be especially helpful during:
 - personal reflection and life direction
 
 It is for people who want more than motivation.  
-It is for people who want a better understanding of their own patterns.
+It is for people who want a clearer understanding of their own patterns.
 
 ---
 
